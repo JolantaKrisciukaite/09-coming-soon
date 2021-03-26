@@ -1,6 +1,17 @@
 import {suma} from './components/sum.js';
 import {multiply as daugyba} from './components/multiply.js';
 
+
+import {average} from './components/average.js';
+import {marks} from './data/marks.js';
+
+const rezultatas = average(10, 2, 8, 6, 4);
+
+console.log(rezultatas);
+
+
+// biblioteka
+
 import {matematika} from './components/matematika.js';
 
 const rez1lt = matematika.sudeti(8, 5);
