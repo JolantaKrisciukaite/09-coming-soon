@@ -5,7 +5,7 @@ import {multiply as daugyba} from './components/multiply.js';
 import {average} from './components/average.js';
 import {marks} from './data/marks.js';
 
-const rezultatas = average(10, 2, 8, 6, 4);
+const rezultatas = average[marks];
 
 console.log(rezultatas);
 
