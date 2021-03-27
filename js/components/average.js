@@ -9,3 +9,19 @@ function average(array) {
 }
 
 export {average}
+
+
+
+/*
+
+const marks = [10, 2, 8, 6, 4];
+
+const count = marks.length;
+let sum = 0;
+
+sum = sum + marks[0];
+
+const average = sum / count;
+console.log(average);
+
+*/
